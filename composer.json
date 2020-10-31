@@ -1,0 +1,19 @@
+{
+    "name": "douggonsouza/invoices",
+    "description": "Serviço de gerenciamento do faturamento",
+    "type": "library",
+    "license": "BSD-3-Clause License",
+    "authors": [
+        {
+            "name": "Douglas Gonçalves de Souza",
+            "email": "douggonsouza@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "invoices\\": "src/"
+        }
+    }
+}
