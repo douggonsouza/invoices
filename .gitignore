@@ -1,1 +1,5 @@
-/vendor/
+# folders
+.vscode/
+
+# files
+*.code_workspace
